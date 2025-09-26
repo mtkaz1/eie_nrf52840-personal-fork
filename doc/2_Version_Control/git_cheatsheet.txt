@@ -1,0 +1,8 @@
+git commit - Saves your staged changes to the local repository with a message describing what you did.
+git branch - Lists all branches in your repo, or creates a new one when you provide a name.
+git checkout - Switches you to another branch, or restores a previous commit or file.
+git pull - Downloads the latest changes from the remote repository and merges them into your current branch.
+git push - Uploads your local commits to the remote repository (e.g., GitHub).
+git merge - Combines changes from another branch into your current branch.
+git rebase - Moves or reapplies commits on top of another branch to keep a cleaner history.
+git fetch - Downloads updates from the remote repository but doesn’t merge them into your branch until you choose to.
