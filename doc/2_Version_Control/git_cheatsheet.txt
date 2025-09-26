@@ -6,3 +6,7 @@ git push - Uploads your local commits to the remote repository (e.g., GitHub).
 git merge - Combines changes from another branch into your current branch.
 git rebase - Moves or reapplies commits on top of another branch to keep a cleaner history.
 git fetch - Downloads updates from the remote repository but doesn’t merge them into your branch until you choose to.
+git add - Moves changes (new, modified, or deleted files) into the staging area, preparing them to be committed.
+git status - Shows the current state of your working directory and staging area (which files are staged, unstaged, or untracked).
+git log - Displays the history of commits in the repository.
+git diff - Checks if there has been any update or changes to files/repo
